@@ -1,0 +1,49 @@
+# 🧠 Python AI Learning Project .gitignore
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (optional — comment out if you want to keep sample data)
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Temporary files
+*.tmp
+*.bak
+
+# Notebook auto-saves
+*.autosave
+
+# Output folders
+output/
+results/
+reports/
+
+# Cache
+.cache/
+__pypackages__/
