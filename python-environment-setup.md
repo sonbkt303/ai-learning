@@ -36,6 +36,7 @@ python -m venv venv
 - **Windows (Command Prompt):**
   ```cmd
   source venv\Scripts\activate
+  venv\Scripts\Activate.ps1
   ```
 - **Windows (Bash/Git Bash):**
   ```bash
